@@ -32,7 +32,7 @@
         "name": "Pizza Hat",
         "operating": "08:00 - 17:00",
         "delivery": "Collection only",
-        "halal": ""halal",
+        "halal": "halal",
         "rate": 3.8,
       },
       {
@@ -41,7 +41,7 @@
         "name": "Wimpy",
         "operating": "08:00 - 19:00",
         "delivery": "delivery only",
-        "halal": ""halal",
+        "halal": "halal",
         "rate": 2.6,
       },
       {
