@@ -1,56 +1,20 @@
 [
-      {
-        "id": 0,
-        "uri": "https://seeklogo.com/images/K/kfc-new-logo-72E6348046-seeklogo.com.png",
-        "name": "KFC",
-        "operating": "08:00 - 17:00",
-        "delivery": "delivery & Collection",
-        "halal": "halal",
-        "rate": 3,
-      },
-      {
-        "id": 1,
-        "uri": "https://www.visitdanvillearea.com/wp-content/uploads/2015/08/McDonalds-Logo-square.jpg",
-        "name": "Mc Donald's",
-        "operating": "10:00 - 14:00",
-        "delivery": "delivery & Collection",
-        "halal": "",
-        "rate": 2.5,
-      },
-      {
-        "id": 2,
-        "uri": "https://sandtoncity.com/uploads/spur.jpg",
-        "name": "Spur",
-        "operating": "09:00 - 18:00",
-        "delivery": "Collection only",
-        "halal": "",
-        "rate": 4,
-      },
-      {
-        "id": 3,
-        "uri": "http://lofrev.net/wp-content/photos/2014/09/Pizza-hut-logo.jpg",
-        "name": "Pizza Hat",
-        "operating": "08:00 - 17:00",
-        "delivery": "Collection only",
-        "halal": "halal",
-        "rate": 3.8,
-      },
-      {
-        "id": 4,
-        "uri": "https://presidentsquare.co.za/wp-content/uploads/2017/02/Wimpy.png",
-        "name": "Wimpy",
-        "operating": "08:00 - 19:00",
-        "delivery": "delivery only",
-        "halal": "halal",
-        "rate": 2.6,
-      },
-      {
-        "id": 5,
-        "uri": "https://image.adsoftheworld.com/tx17yygctnfatn71xsuz8gf5i6w6",
-        "name": "Khicken Licken",
-        "operating": "08:00 - 16:00",
-        "delivery": "delivery only",
-        "halal": "",
-        "rate": 4.1,
-      },
+  {
+    "userId": 1,
+    "id": 1,
+    "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+    "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
+  },
+  {
+    "userId": 1,
+    "id": 2,
+    "title": "qui est esse",
+    "body": "est rerum tempore vitae\nsequi sint nihil reprehenderit dolor beatae ea dolores neque\nfugiat blanditiis voluptate porro vel nihil molestiae ut reiciendis\nqui aperiam non debitis possimus qui neque nisi nulla"
+  },
+  {
+    "userId": 1,
+    "id": 3,
+    "title": "ea molestias quasi exercitationem repellat qui ipsa sit aut",
+    "body": "et iusto sed quo iure\nvoluptatem occaecati omnis eligendi aut ad\nvoluptatem doloribus vel accusantium quis pariatur\nmolestiae porro eius odio et labore et velit aut"
+  },
     ]
