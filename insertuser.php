@@ -1,5 +1,5 @@
 <?php
-	$Connection = mysqli connect("localhost", "id18610833_klener","_(Nig{6}9L?+J#tE"); 
+	$Connection = mysqli connect("databases.000webhost.com", "id18610833_klener","_(Nig{6}9L?+J#tE"); 
 	$DateBase = mysqli_select_db($Connection, "id18610833_myklener");
 
 	$EncodedData=file get contents('php://input'); 
