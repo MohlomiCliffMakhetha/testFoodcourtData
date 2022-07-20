@@ -1,8 +1,8 @@
 <?php
-	$Connection = mysqli connect("databases.000webhost.com", "id18610833_klener","_(Nig{6}9L?+J#tE"); 
+	$Connection = mysqli_connect("databases.000webhost.com", "id18610833_klener","_(Nig{6}9L?+J#tE"); 
 	$DateBase = mysqli_select_db($Connection, "id18610833_myklener");
 
-	$EncodedData=file get contents('php://input'); 
+	$EncodedData=file_get_contents('php://input'); 
 	$DecodedData=json_decode($EncodedData, true);
 
 	$Name = $DecodedData['Name']; 
@@ -25,5 +25,5 @@
 	}
 
 	$Response []=array ("Message"=> $Message); 
-	echo json encode($Response);
+	echo json_encode($Response);
 ?>
